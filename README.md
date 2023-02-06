@@ -22,7 +22,7 @@ The subtitles in `src/subtitles` serve as the translation source for other trage
 
 ## Translations to other languages
 
-Translations to other languages are coordinated on the Crowdin project [renmaskesmusic](https://crowdin.com/project/renmakesmusic). It is a public project where everyone can contribute translations.
+Translations to other languages are coordinated on the Crowdin project [renmakesmusic](https://crowdin.com/project/renmakesmusic). It is a public project where everyone can contribute translations.
 
 If you'd like to contribute to translations, create an account, choose your language and see if any translations are missing.
 
