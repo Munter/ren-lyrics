@@ -18,7 +18,7 @@ Subtitle files are in the SubRip (.srt) format. See https://en.wikipedia.org/wik
 
 You can create `.srt` files with any SubRip supporting editor and create a pull request to this repository.
 
-The subtitles in `src/subtitles` serve as the translation source for other traget languages
+The subtitles in `src/subtitles` serve as the translation source for other target languages
 
 ## Translations to other languages
 
