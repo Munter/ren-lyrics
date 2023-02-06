@@ -6,7 +6,7 @@ and work to create good subtitle files for the YouTube videos
 
 ## Lyrics
 
-Original english lyrics are places in `src/lyrics`.
+Original english lyrics are placed in `src/lyrics`.
 
 These are the original english lyrics, which serve as source material for translations.
 
